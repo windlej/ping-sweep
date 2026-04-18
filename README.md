@@ -3,7 +3,7 @@
 
 ## Description
 
-Ping Sweep is a fast subnet ping sweep tool that logs live and dead hosts to a CSV file. It's built for quick network discovery across MSP client sites.
+Ping Sweep is a fast subnet ping sweep tool that logs live and dead hosts to a CSV file. It's built for quick network discovery across MSP client sites. Pass it a CIDR range, get back a list of live hosts.
 
 ## Features
 
